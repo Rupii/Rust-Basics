@@ -1,6 +1,8 @@
 // mod format;
-mod datatypes;
+// mod datatypes;
+// mod strings;
+mod tup_arr;
 
 fn main() {
-    datatypes::run();
+    tup_arr::run();
 }
